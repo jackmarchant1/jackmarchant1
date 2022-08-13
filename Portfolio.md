@@ -1,7 +1,5 @@
 ## Jack's Portfolio
 
-Hi 👋 , I am a university student studying Computer Science 💻 and have 5+ years of experience with writing code for many different applications.
-
 
 
 ### I have extensive experience in the following:
